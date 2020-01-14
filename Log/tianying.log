@@ -1,0 +1,50 @@
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+2020-01-10 16:29:40,231 - root - 10 - DEBUG - This is a debug log.
+2020-01-10 16:29:40,232 - root - 11 - INFO - This is a info log.
+2020-01-10 16:29:40,232 - root - 12 - WARNING - This is a warning log.
+2020-01-10 16:29:40,233 - root - 13 - ERROR - This is a error log.
+2020-01-10 16:29:40,233 - root - 14 - CRITICAL - This is a critical log.
+2020-01-10 16:29:40,233 - root - 17 - DEBUG - This is a debug log.
+2020-01-10 16:29:40,233 - root - 18 - INFO - This is a info log.
+2020-01-10 16:29:40,233 - root - 19 - WARNING - This is a warning log.
+2020-01-10 16:29:40,234 - root - 20 - ERROR - This is a error log.
+2020-01-10 16:29:40,234 - root - 21 - CRITICAL - This is a critical log.
+2020-01-10 16:31:45,197 - 01 - 10 - DEBUG - This is a debug log.
+2020-01-10 16:31:45,199 - 01 - 11 - INFO - This is a info log.
+2020-01-10 16:31:45,200 - 01 - 12 - WARNING - This is a warning log.
+2020-01-10 16:31:45,200 - 01 - 13 - ERROR - This is a error log.
+2020-01-10 16:31:45,201 - 01 - 14 - CRITICAL - This is a critical log.
+2020-01-10 16:31:45,201 - 01 - 17 - DEBUG - This is a debug log.
+2020-01-10 16:31:45,202 - 01 - 18 - INFO - This is a info log.
+2020-01-10 16:31:45,203 - 01 - 19 - WARNING - This is a warning log.
+2020-01-10 16:31:45,204 - 01 - 20 - ERROR - This is a error log.
+2020-01-10 16:31:45,204 - 01 - 21 - CRITICAL - This is a critical log.
+2020-01-10 16:32:16,666 - 01.py - 10 - DEBUG - This is a debug log.
+2020-01-10 16:32:16,668 - 01.py - 11 - INFO - This is a info log.
+2020-01-10 16:32:16,668 - 01.py - 12 - WARNING - This is a warning log.
+2020-01-10 16:32:16,668 - 01.py - 13 - ERROR - This is a error log.
+2020-01-10 16:32:16,669 - 01.py - 14 - CRITICAL - This is a critical log.
+2020-01-10 16:32:16,669 - 01.py - 17 - DEBUG - This is a debug log.
+2020-01-10 16:32:16,669 - 01.py - 18 - INFO - This is a info log.
+2020-01-10 16:32:16,669 - 01.py - 19 - WARNING - This is a warning log.
+2020-01-10 16:32:16,669 - 01.py - 20 - ERROR - This is a error log.
+2020-01-10 16:32:16,669 - 01.py - 21 - CRITICAL - This is a critical log.
+2020-01-10 16:32:41,143 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 10 - DEBUG - This is a debug log.
+2020-01-10 16:32:41,144 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 11 - INFO - This is a info log.
+2020-01-10 16:32:41,144 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 12 - WARNING - This is a warning log.
+2020-01-10 16:32:41,144 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 13 - ERROR - This is a error log.
+2020-01-10 16:32:41,144 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 14 - CRITICAL - This is a critical log.
+2020-01-10 16:32:41,144 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 17 - DEBUG - This is a debug log.
+2020-01-10 16:32:41,145 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 18 - INFO - This is a info log.
+2020-01-10 16:32:41,145 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 19 - WARNING - This is a warning log.
+2020-01-10 16:32:41,145 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 20 - ERROR - This is a error log.
+2020-01-10 16:32:41,145 - /Users/vteam/Desktop/app项目/IOS重要练习资料/LearnPython/learnPython/Log/01.py - 21 - CRITICAL - This is a critical log.
